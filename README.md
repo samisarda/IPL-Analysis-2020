@@ -4,7 +4,7 @@ This project explores match and player data from the 2020 Indian Premier League 
 It includes the dataset and Tableau dashboards built to uncover key patterns, team performances, and player stats.
 
 ## Contents
-- `ipl_2020_dataset.csv` – Raw IPL match data for the 2020 season  
+- `Dream11.csv` – Raw IPL match data for the 2020 season  
 - Tableau Workbook – Interactive dashboards for visualization and analysis
 
 ## Tools Used
